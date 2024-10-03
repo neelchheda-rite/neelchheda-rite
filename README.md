@@ -1,7 +1,7 @@
-# Hey there! Myself [Your Name] 👋
+# Hey there! Myself Neel Chheda 👋
 
 ## 🧑‍💻 About Me
-- 👨‍💻 Remote Software Developer
+- 👨‍💻 Fullstack Software Developer
 - 🌐 Tech Enthusiast
 - 🏗 Aspiring Software Architect
 
